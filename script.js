@@ -10,10 +10,10 @@ const pieceHeight = 133.33;
 const snapThreshold = 20;
 let correctCount = 0;
 
-// Use Lorem Picsum API for a random image
+
 const selectedImage = "https://picsum.photos/600/400";
 
-// Set hint preview once image is loaded
+
 hint.src = selectedImage;
 hint.onload = () => {
   createPuzzlePieces();
