@@ -24,3 +24,6 @@ It’s a mix of creativity, logic, and just a little bit of frustration—just l
 
 **APIs**  
 - [Unsplash Random Image API]
+
+🎮 **Live Demo:** 
+https://ripalpatel18.github.io/PuzzlePopDigitalPuzzles/
